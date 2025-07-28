@@ -1,0 +1,210 @@
+{
+    "table_of_characters": [
+        {
+            "id": "space",
+            "char": " ",
+            "web": true,
+            "file": true
+        },
+        {
+            "id": "forward_slash",
+            "char": "/",
+            "web": true,
+            "file": false
+        },
+        {
+            "id": "backslash",
+            "char": "\\",
+            "web": true,
+            "file": false
+        },
+        {
+            "id": "colon",
+            "char": ":",
+            "web": true,
+            "file": false
+        },
+        {
+            "id": "asterisk",
+            "char": "*",
+            "web": true,
+            "file": false
+        },
+        {
+            "id": "question_mark",
+            "char": "?",
+            "web": true,
+            "file": false
+        },
+        {
+            "id": "less_than",
+            "char": "<",
+            "web": true,
+            "file": false
+        },
+        {
+            "id": "greater_than",
+            "char": ">",
+            "web": true,
+            "file": false
+        },
+        {
+            "id": "pipe",
+            "char": "|",
+            "web": true,
+            "file": false
+        },
+        {
+            "id": "double_quote",
+            "char": "\"",
+            "web": true,
+            "file": false
+        }
+    ],
+    "table_of_groups_of_characters": [
+        {
+            "id": "directory_separators",
+            "description": "Used as directory separators"
+        },
+        {
+            "id": "alternate_data_stream",
+            "description": "Reserved for drive letters and alternate data streams (e.g., C:)."
+        },
+        {
+            "id": "wildcards",
+            "description": "Used as wildcards in file searches"
+        },
+        {
+            "id": "cmd_redirection",
+            "description": "Reserved for command-line redirection or quoting"
+        }
+    ],
+    "table_of_characters_in_groups": [
+        {
+            "character_id": "forward_slash",
+            "group_id": "directory_separators"
+        },
+        {
+            "character_id": "backslash",
+            "group_id": "directory_separators"
+        },
+        {
+            "character_id": "colon",
+            "group_id": "alternate_data_stream"
+        },
+        {
+            "character_id": "asterisk",
+            "group_id": "wildcards"
+        },
+        {
+            "character_id": "question_mark",
+            "group_id": "wildcards"
+        },
+        {
+            "character_id": "less_than",
+            "group_id": "cmd_redirection"
+        },
+        {
+            "character_id": "greater_than",
+            "group_id": "cmd_redirection"
+        },
+        {
+            "character_id": "pipe",
+            "group_id": "cmd_redirection"
+        },
+        {
+            "character_id": "double_quote",
+            "group_id": "cmd_redirection"
+        }
+    ],
+    "reserved_names": [
+        {
+            "name": "CON",
+            "reason": "Reserved device name: console"
+        },
+        {
+            "name": "PRN",
+            "reason": "Reserved device name: printer"
+        },
+        {
+            "name": "AUX",
+            "reason": "Reserved device name: auxiliary device"
+        },
+        {
+            "name": "NUL",
+            "reason": "Reserved device name: null device"
+        },
+        {
+            "name": "COM1",
+            "reason": "Reserved device name: serial port COM1"
+        },
+        {
+            "name": "COM2",
+            "reason": "Reserved device name: serial port COM2"
+        },
+        {
+            "name": "COM3",
+            "reason": "Reserved device name: serial port COM3"
+        },
+        {
+            "name": "COM4",
+            "reason": "Reserved device name: serial port COM4"
+        },
+        {
+            "name": "COM5",
+            "reason": "Reserved device name: serial port COM5"
+        },
+        {
+            "name": "COM6",
+            "reason": "Reserved device name: serial port COM6"
+        },
+        {
+            "name": "COM7",
+            "reason": "Reserved device name: serial port COM7"
+        },
+        {
+            "name": "COM8",
+            "reason": "Reserved device name: serial port COM8"
+        },
+        {
+            "name": "COM9",
+            "reason": "Reserved device name: serial port COM9"
+        },
+        {
+            "name": "LPT1",
+            "reason": "Reserved device name: parallel port LPT1"
+        },
+        {
+            "name": "LPT2",
+            "reason": "Reserved device name: parallel port LPT2"
+        },
+        {
+            "name": "LPT3",
+            "reason": "Reserved device name: parallel port LPT3"
+        },
+        {
+            "name": "LPT4",
+            "reason": "Reserved device name: parallel port LPT4"
+        },
+        {
+            "name": "LPT5",
+            "reason": "Reserved device name: parallel port LPT5"
+        },
+        {
+            "name": "LPT6",
+            "reason": "Reserved device name: parallel port LPT6"
+        },
+        {
+            "name": "LPT7",
+            "reason": "Reserved device name: parallel port LPT7"
+        },
+        {
+            "name": "LPT8",
+            "reason": "Reserved device name: parallel port LPT8"
+        },
+        {
+            "name": "LPT9",
+            "reason": "Reserved device name: parallel port LPT9"
+        }
+    ]
+}
