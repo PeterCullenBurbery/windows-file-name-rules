@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this dataset, please cite it using the metadata below."
 title: "Windows File Name Rules"
 version: "1.2.0"
-doi: 10.5281/zenodo.16550142
+doi: 10.5281/zenodo.16550141
 date-released: 2025-07-28
 authors:
   - family-names: Burbery
@@ -11,4 +11,4 @@ authors:
     affiliation: "Marshall University"
 license: CC0-1.0
 repository-code: https://github.com/PeterCullenBurbery/windows-file-name-rules
-url: https://doi.org/10.5281/zenodo.16550142
+url: https://doi.org/10.5281/zenodo.16550141

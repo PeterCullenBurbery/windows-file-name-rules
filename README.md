@@ -1,7 +1,7 @@
 # Windows File Name Rules
 
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16550142.svg)](https://doi.org/10.5281/zenodo.16550142)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16550141.svg)](https://doi.org/10.5281/zenodo.16550141)
 
 
 This repository contains a structured dataset in JSON format documenting **invalid characters** and **reserved names** for filenames on Windows. It is intended for developers, educators, or tool creators working on filename validation, cross-platform file handling, or automated sanitation of file input.
@@ -76,4 +76,4 @@ This dataset is also suitable for publication on:
 
 If you use this dataset, please cite it as:
 
-> Peter Cullen Burbery. (2025). *Windows file name rules* (v1.2.0). Zenodo. https://doi.org/10.5281/zenodo.16550142
+> Peter Cullen Burbery. (2025). *Windows file name rules* (v1.2.0). Zenodo. https://doi.org/10.5281/zenodo.16550141
