@@ -76,4 +76,4 @@ This dataset is also suitable for publication on:
 
 If you use this dataset, please cite it as:
 
-> Peter Cullen Burbery. (2025). *Windows file name rules* (v1.3.0). Zenodo. https://doi.org/10.5281/zenodo.16550141
+> Peter Cullen Burbery. (2025). *Windows file name rules* (v1.4.0). Zenodo. https://doi.org/10.5281/zenodo.16550141
